@@ -26,7 +26,7 @@ We will create a new database to store information about pets and their owners.
 4. Right-click on the "Databases" icon under the server and select Create >
    Database:
 
-   ![new-database](https://curriculum-content.s3.amazonaws.com/6002/sql-create-statement/newdb.png)
+   ![new-database](https://curriculum-content.s3.amazonaws.com/pe-mod-3/sql-create/pgAdmin-create-database.png)
 
 5. Name the new database "pets" and press Save.
 
